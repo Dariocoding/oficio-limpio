@@ -1,0 +1,7 @@
+storage/uploads/*
+storage/output/*
+.git
+*.docx
+*.pdf
+__pycache__
+*.pyc

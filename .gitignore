@@ -1,0 +1,8 @@
+storage/uploads/*
+storage/output/*
+!storage/uploads/.gitkeep
+!storage/output/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+.env
